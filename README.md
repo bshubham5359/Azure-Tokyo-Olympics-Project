@@ -1,4 +1,4 @@
-# Tokyo Olympics Dataset
+# Azure Tokyo Olympics Project
 
 ### Step to complete end to end projects
 
